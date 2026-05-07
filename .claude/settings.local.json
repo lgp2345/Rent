@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install *)",
+      "Bash(npm view *)",
+      "Bash(pnpm approve-builds *)",
+      "Bash(pnpm config *)",
+      "Bash(pnpm turbo *)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@rent/app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'TODO: add React Native dev script'",
+    "build": "echo 'TODO: add React Native build script'",
+    "lint": "biome check .",
+    "check": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@rent/schema": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0",
+    "vitest": "^4.1.0"
+  }
+}

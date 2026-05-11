@@ -19,11 +19,17 @@
     "react-dom": "catalog:react"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "@tanstack/react-router": "^1.169.2",
+    "@tanstack/react-router-devtools": "^1.166.13",
+    "@tanstack/router-plugin": "^1.167.35",
     "@types/react": "catalog:react",
     "@types/react-dom": "catalog:react",
     "@vitejs/plugin-react": "catalog:react",
+    "babel-plugin-react-compiler": "^1.0.0",
     "typescript": "catalog:",
     "vite": "catalog:react",
+    "vite-plugin-babel": "^1.6.0",
     "vitest": "catalog:"
   }
 }

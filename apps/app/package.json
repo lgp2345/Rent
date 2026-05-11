@@ -12,7 +12,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@rent/schema": "workspace:*"
+    "@repo/schema": "workspace:*"
   },
   "devDependencies": {
     "typescript": "catalog:",

@@ -27,7 +27,7 @@
     "@nestjs/swagger": "catalog:nestjs",
     "@nestjs/terminus": "catalog:nestjs",
     "@nestjs/throttler": "catalog:nestjs",
-    "@rent/schema": "workspace:*",
+    "@repo/schema": "workspace:*",
     "drizzle-orm": "catalog:nestjs",
     "nestjs-pino": "catalog:nestjs",
     "nestjs-zod": "catalog:nestjs",

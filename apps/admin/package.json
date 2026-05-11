@@ -14,7 +14,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@rent/schema": "workspace:*",
+    "@repo/schema": "workspace:*",
     "react": "catalog:react",
     "react-dom": "catalog:react"
   },

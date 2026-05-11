@@ -18,4 +18,8 @@
 - 新增代码必须有对应测试
 - 禁止 `console.log`，使用结构化日志
 - 当需要查阅任何库或框架的文档时，自动使用 Context7 MCP。
+- 在一个独立的 git worktree 开发，不要在当前 main 分支开发
+- 先写测试再开发
+- 写完代码要 code review
 - 提交规范：`feat:`、`fix:`、`refactor:`、`docs:`、`test:`
+- 测试、review 没问题，使用中文提交 git commit

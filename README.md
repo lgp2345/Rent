@@ -30,4 +30,6 @@ apps/
 packages/
   schema/       # 共享 Zod 验证 Schema
 docs/           # 设计文档与计划
+infra/
+  compose/      # Docker Compose（一次命令启动 admin+server）
 ```

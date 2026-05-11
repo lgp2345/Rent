@@ -14,8 +14,8 @@
     "db:push": "turbo db:push"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.14",
-    "turbo": "^2.9.9",
-    "typescript": "^5.8.0"
+    "@biomejs/biome": "^2.4.15",
+    "turbo": "^2.9.12",
+    "typescript": "^6.0.3"
   }
 }
